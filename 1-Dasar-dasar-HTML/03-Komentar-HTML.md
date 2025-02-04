@@ -1,0 +1,2 @@
+# Komentar HTML
+**Komentar HTML** adalah teks dalam dokumen HTML yang tidak ditampilkan oleh browser. Komentar ini memungkinkan Anda untuk meninggalkan catatan dan penjelasan langsung dalam kode, yang dapat sangat membantu selama proses pengembangan atau saat Anda perlu melakukan pembaruan di masa mendatang.

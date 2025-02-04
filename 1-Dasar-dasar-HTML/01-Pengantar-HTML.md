@@ -1,3 +1,4 @@
+# Pengantar HTML
 **HTML** adalah singkatan dari **HyperText Markup Language** . Bahasa ini adalah bahasa standar yang digunakan untuk membuat dan menyusun konten di web.
 
 - HTML adalah bahasa markup, bukan bahasa pemrograman, artinya ia memberi anotasi pada teks untuk menentukan bagaimana teks itu disusun dan ditampilkan oleh peramban web.
@@ -22,14 +23,14 @@ Singkatnya, HTML adalah tentang **mengatur dan menampilkan informasi** pada ha
 ```
 
 ## Daftar Isi
-- [[#Mengapa Belajar HTML?]]
-- [[#Fitur HTML]]
-- [[#Elemen HTML dan Tag HTML]]
-- [[#Struktur Halaman HTML]]
-- [[#Peramban Web]]
-- [[#Sejarah HTML]]
-- [[#Keuntungan HTML]]
-- [[#Kekurangan HTML]]
+- [Mengapa Belajar HTML?](#mengapa-belajar-html)
+- [Fitur HTML](#fitur-html)
+- [Elemen HTML dan Tag HTML](#elemen-html-dan-tag-html)
+- [Struktur Halaman HTML](#struktur-halaman-html)
+- [Peramban Web](#peramban-web)
+- [Sejarah HTML](#sejarah-html)
+- [Keuntungan HTML](#keuntungan-html)
+- [Kekurangan HTML](#kekurangan-html)
 
 ## Mengapa Belajar HTML?
 Berikut adalah **5 alasan umum untuk mempelajari HTML** :
@@ -49,11 +50,11 @@ Elemen HTML dan Tag HTML saling terkait tetapi berbeda. **Elemen HTML** adalah
 
 Di sisi lain, **tag** A adalah kata kunci atau nama sebenarnya yang diapit tanda kurung siku (`< >`) yang memberi tahu browser jenis konten apa yang diharapkan.
 
-![[Pasted image 20250204140702.png]]
+![gambar elemen html](1-img\01-Pengantar-HTML-1.png)
 ## Struktur Halaman HTML
 Struktur dasar halaman HTML ditunjukkan di bawah ini. Halaman ini berisi elemen-elemen penyusun penting (yaitu deklarasi doctype, HTML, head, title, dan body) yang menjadi dasar pembuatan semua halaman web.
 
-![[Pasted image 20250204140917.png]]
+![struktur html](1-img/01-Pengantar-HTML-2.png)
 
 - `<!DOCTYPE html>` – Ini adalah deklarasi tipe dokumen, bukan tag. Ini menyatakan bahwa dokumen tersebut adalah dokumen HTML5.
 - `<html>` – Ini disebut elemen dasar HTML. Semua elemen lainnya ada di dalamnya.
@@ -76,7 +77,7 @@ Tidak seperti bahasa pemrograman lain, HTML tidak menampilkan output pada compil
 
 Ia membaca berkas HTML dan menentukan cara menampilkan konten dengan bantuan tag HTML. Peramban web apa pun ( **Google, Safari, Mozilla Firefox*** , dll.) dapat digunakan untuk membuka **berkas .HTML** dan melihat hasilnya.
 
-![[Pasted image 20250204141800.png]]
+![peramban web](1-img/01-Pengantar-HTML-3.png)
 
 ## Sejarah HTML
 Saat ini, kita menggunakan **HTML5**, yang merupakan versi HTML terbaru dan tercanggih.
@@ -85,7 +86,7 @@ HTML awalnya diciptakan oleh **Tim Berners-Lee** pada tahun 1991 sebagai cara 
 
 Versi pertama yang pernah ada adalah **HTML 1.0** , versi dasar dan terbatas. Namun, versi standar pertama, **HTML 2.0** , diterbitkan pada tahun 1995, yang menjadi dasar pengembangan web seperti yang kita kenal sekarang.
 
-![[Pasted image 20250204141937.png]]
+![sejarah](1-img/01-Pengantar-HTML-4.png)
 ## Keuntungan HTML
 - HTML digunakan untuk membangun situs web.
 - Didukung oleh semua browser.

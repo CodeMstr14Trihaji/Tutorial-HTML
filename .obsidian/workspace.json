@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "1-Dasar-dasar-HTML/1-img/Pasted image 20250204150000.png"
+                "file": "1-Dasar-dasar-HTML/1-img/02-Editor-HTML-2.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250204150000"
+              "title": "02-Editor-HTML-2"
             }
           },
           {
@@ -39,10 +39,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "1-Dasar-dasar-HTML/1-img/Pasted image 20250204145933.png"
+                "file": "1-Dasar-dasar-HTML/1-img/02-Editor-HTML-1.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250204145933"
+              "title": "02-Editor-HTML-1"
             }
           },
           {
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03-Komentar-HTML"
             }
           }
         ],
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "97a50e38f9c9187b",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink pada README"
+              "title": "Backlink pada 03-Komentar-HTML"
             }
           },
           {
@@ -152,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tautan keluar dari README"
+              "title": "Tautan keluar dari 03-Komentar-HTML"
             }
           },
           {
@@ -181,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kerangka dari README"
+              "title": "Kerangka dari 03-Komentar-HTML"
             }
           }
         ]
@@ -207,20 +208,22 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "239fb0345901b708",
+  "active": "af1d362fedc8d3ce",
   "lastOpenFiles": [
+    "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-1.png",
     "1-Dasar-dasar-HTML/02-Editor-HTML.md",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204150000.png",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204145933.png",
-    "README.md",
     "1-Dasar-dasar-HTML/01-Pengantar-HTML.md",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204141937.png",
+    "1-Dasar-dasar-HTML/1-img/02-Editor-HTML-1.png",
+    "01-Pengantar-HTML.png",
+    "01-Pengantar-HTML-1.png",
+    "Pasted image 20250204154501.png",
+    "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-4.png",
+    "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-3.png",
+    "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-2.png",
     "1-Dasar-dasar-HTML/1-img/Pasted image 20250204140702.png",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204140917.png",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204141800.png",
-    "Pasted image 20250204115558.png",
-    "1-Panduan-HTML/1-img/Pasted image 20250204114622.png",
-    "1-Panduan-HTML/1-img/Pasted image 20250204114526.png",
+    "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
+    "README.md",
+    "1-Dasar-dasar-HTML/1-img/02-Editor-HTML-2.png",
     "1-Dasar-dasar-HTML/1-img",
     "7-Referensi-HTML",
     "6-Contoh-HTML",

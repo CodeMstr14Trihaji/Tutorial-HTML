@@ -9,12 +9,12 @@ Ada dua jenis utama editor HTML:
 Ada berbagai editor HTML gratis dan berbayar yang tersedia di pasaran, tetapi dalam artikel ini, kami akan membahas beberapa editor HTML gratis terkenal yang dapat Anda gunakan sebagai pemula atau beralih ke jika Anda adalah pengembang berpengalaman.
 
 **Daftar Text Editor:**
-- [[#1. Notepad]]
--  [[#2. GeeksforGeeks IDE]]
-- [[#3. Brackets]]
-- [[#4. Sublime Text Editor]]
-- [[#5. Atom]]
-- [[#6. Visual Studio Code]]
+- [1. Notepad](#1-notepad)
+- [2. GeeksforGeeks IDE](#2-geeksforgeeks-ide)
+- [3. Brackets](#3-brackets)
+- [4. Sublime Text Editor](#4-sublime-text-editor)
+- [5. Atom](#5-atom)
+- [6. Visual Studio Code](#6-visual-studio-code)
 ### 1. Notepad
 Notepad adalah editor teks sederhana yang juga digunakan untuk menulis kode HTML. Ini adalah aplikasi desktop bawaan yang tersedia di OS Windows.
 
@@ -60,11 +60,11 @@ Ini adalah salah satu editor kode paling populer saat ini. Banyak perusahaan dan
 
 **Langkah 1:** Buka Editor VS Code dan Instal Live Server. Dengan mengeklik tombol ekstensi, cukup cari live server di bilah pencarian dan unduh. Ekstensi live server membantu menjalankan kode dan menampilkan output.
 
-![[Pasted image 20250204145933.png]]
+![live server plugin](1-img/02-Editor-HTML-1.png)
 
 **Langkah 2:** Buat File baru dan simpan dengan ekstensi .html dan gunakan tombol buka server langsung untuk mengklik tombol kanan.
 
-![[Pasted image 20250204150000.png]]
+![02-Editor-HTML-2.png](1-img/02-Editor-HTML-2.png)
 
 ## Alasan Menggunakan Editor HTML
 *Editor HTML* menawarkan beberapa keuntungan untuk menulis dan mengedit kode HTML. Beberapa keuntungan menggunakan editor HTML adalah:
