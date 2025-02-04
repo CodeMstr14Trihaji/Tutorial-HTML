@@ -48,9 +48,9 @@ Berikut adalah berbagai tutorial HTML yang telah aku pelajari. Checklist ini aka
 ### 📢 **Dasar-dasar HTML**  
 Dengan mempelajari dasar-dasar HTML, Anda dapat mulai membuat halaman web Anda sendiri dan mewujudkan ide-ide Anda secara online. 😊
 
-✅ Pengantar HTML  
-✅ Editor HTML 
-- [ ] Komentar HTML
+✅ [Pengantar HTML](1-Dasar-dasar-HTML/01-Pengantar-HTML.md)<br>
+✅ [Editor HTML](1-Dasar-dasar-HTML/02-Editor-HTML.md)<br>
+✅ [Komentar HTML](1-Dasar-dasar-HTML/03-Komentar-HTML.md)
 - [ ] Elemen HTML  
 - [ ] Atribut HTML
 - [ ] Dokumen Tipe HTML
