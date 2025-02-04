@@ -50,7 +50,7 @@ Elemen HTML dan Tag HTML saling terkait tetapi berbeda. **Elemen HTML** adalah
 
 Di sisi lain, **tag** A adalah kata kunci atau nama sebenarnya yang diapit tanda kurung siku (`< >`) yang memberi tahu browser jenis konten apa yang diharapkan.
 
-![gambar elemen html](1-img\01-Pengantar-HTML-1.png)
+![gambar elemen html](1-img/01-Pengantar-HTML-1.png)
 ## Struktur Halaman HTML
 Struktur dasar halaman HTML ditunjukkan di bawah ini. Halaman ini berisi elemen-elemen penyusun penting (yaitu deklarasi doctype, HTML, head, title, dan body) yang menjadi dasar pembuatan semua halaman web.
 
