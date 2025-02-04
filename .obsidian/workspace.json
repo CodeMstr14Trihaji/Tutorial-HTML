@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Panduan-HTML/01-Pengantar-HTML.md",
+                "file": "1-Dasar-dasar-HTML/01-Pengantar-HTML.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,6 +23,30 @@
           },
           {
             "id": "19f37859787afb50",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1-Dasar-dasar-HTML/1-img/Pasted image 20250204150000.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250204150000"
+            }
+          },
+          {
+            "id": "426deaa28e9772ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1-Dasar-dasar-HTML/1-img/Pasted image 20250204145933.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250204145933"
+            }
+          },
+          {
+            "id": "af1d362fedc8d3ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97a50e38f9c9187b",
@@ -184,25 +207,27 @@
       "command-palette:Buka palet perintah": false
     }
   },
-  "active": "19f37859787afb50",
+  "active": "239fb0345901b708",
   "lastOpenFiles": [
-    "1-Panduan-HTML/01-Pengantar-HTML.md",
-    "1-Panduan-HTML/1-img/Pasted image 20250204141937.png",
-    "1-Panduan-HTML/1-img/Pasted image 20250204140702.png",
-    "1-Panduan-HTML/1-img/Pasted image 20250204140917.png",
-    "1-Panduan-HTML/1-img/Pasted image 20250204141800.png",
-    "1-Panduan-HTML/02-html-editors.md",
+    "1-Dasar-dasar-HTML/02-Editor-HTML.md",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204150000.png",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204145933.png",
+    "README.md",
+    "1-Dasar-dasar-HTML/01-Pengantar-HTML.md",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204141937.png",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204140702.png",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204140917.png",
+    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204141800.png",
     "Pasted image 20250204115558.png",
     "1-Panduan-HTML/1-img/Pasted image 20250204114622.png",
     "1-Panduan-HTML/1-img/Pasted image 20250204114526.png",
-    "README.md",
-    "1-Panduan-HTML/1-img",
+    "1-Dasar-dasar-HTML/1-img",
     "7-Referensi-HTML",
     "6-Contoh-HTML",
     "5-API-HTML",
     "4-Media-HTML",
     "3-Grafik-HTML",
     "2-Formulir-HTML",
-    "1-Panduan-HTML"
+    "1-Dasar-dasar-HTML"
   ]
 }
