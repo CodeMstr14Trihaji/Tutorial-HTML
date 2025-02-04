@@ -1,6 +1,6 @@
 # 🚀 Belajar HTML - Dokumentasi Pribadi  
 
-Repository ini berisi hasil belajarku tentang bahasa **HTML**, mulai dari dasar hingga konsep yang lebih kompleks. Semua materi yang ada di sini merupakan catatan pribadiku yang bisa digunakan sebagai referensi di masa depan. Referensi yang aku gunakan disini berasal dari situs-situs seperti [geeksforgeeks](https://www.geeksforgeeks.org/) , [w3schools](https://www.w3schools.com/), [Petani Kode](https://www.petanikode.com/), dan [DuniaIlkom](https://www.duniailkom.com/)
+Repository ini berisi hasil belajarku tentang bahasa **HTML**, mulai dari dasar hingga konsep yang lebih kompleks. Semua materi yang ada di sini merupakan catatan pribadiku yang bisa digunakan sebagai referensi di masa depan 😊😎. Referensi yang aku gunakan disini berasal dari situs-situs seperti [geeksforgeeks](https://www.geeksforgeeks.org/) , [w3schools](https://www.w3schools.com/), [Petani Kode](https://www.petanikode.com/), dan [DuniaIlkom](https://www.duniailkom.com/)
 
 ## 📌 Alasan Dibuat  
 - Untuk mendokumentasikan perjalanan belajarku dalam HTML.  
@@ -11,8 +11,7 @@ Repository ini berisi hasil belajarku tentang bahasa **HTML**, mulai dari dasar 
 ## Panduan Singkat HTML
 **HTML** adalah singkatan dari **HyperText Markup Language** . Bahasa ini adalah bahasa standar yang digunakan untuk membuat dan menyusun konten di web. Bahasa ini memberi tahu peramban web cara menampilkan teks, tautan, gambar, dan bentuk multimedia lainnya di halaman web. HTML mengatur struktur dasar situs web, lalu CSS dan JavaScript menambahkan gaya dan interaktivitas agar situs web terlihat dan berfungsi lebih baik.
 
-> [!Cara Kerja]
-> Bagaimana Cara Kerja HTML? - Dokumen HTML adalah berkas teks biasa yang disimpan dengan ***ekstensi .html*** . Peramban membaca dokumen ini, menginterpretasikan markup (tag dan atribut), dan menampilkan konten yang diformat di layar Anda.
+> **Bagaimana Cara Kerja HTML?** - Dokumen HTML adalah berkas teks biasa yang disimpan dengan ***ekstensi .html*** . Peramban membaca dokumen ini, menginterpretasikan markup (tag dan atribut), dan menampilkan konten yang diformat di layar Anda.
 
 ### Menampilkan "Hello World!" di HTML
 Untuk menunjukkan kepada Anda **betapa menyenangkan dan mudahnya HTML** , kami telah memberikan contoh klasik penulisan "Hello World!" dalam HTML 😊
@@ -48,7 +47,7 @@ Berikut adalah berbagai tutorial HTML yang telah aku pelajari. Checklist ini aka
 
 ### 📢 **Dasar-dasar HTML**  
 Dengan mempelajari dasar-dasar HTML, Anda dapat mulai membuat halaman web Anda sendiri dan mewujudkan ide-ide Anda secara online. 😊
-- [ ] Pengantar HTML  
+- [x] Pengantar HTML  
 - [ ] Editor HTML 
 - [ ] Komentar HTML
 - [ ] Elemen HTML  
