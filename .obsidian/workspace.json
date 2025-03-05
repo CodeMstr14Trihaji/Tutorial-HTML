@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dasar-dasar-HTML/04-Elemen-HTML.md",
-                "mode": "preview",
+                "file": "1-Dasar-dasar-HTML/Tanpa judul.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Elemen-HTML"
+              "title": "Tanpa judul"
             }
           }
         ],
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "97a50e38f9c9187b",
@@ -210,9 +209,10 @@
   },
   "active": "af1d362fedc8d3ce",
   "lastOpenFiles": [
+    "1-Dasar-dasar-HTML/04-Elemen-HTML.md",
+    "1-Dasar-dasar-HTML/Tanpa judul.md",
     "1-Dasar-dasar-HTML/1-img/04-Elemen-HTML-2.png",
     "1-Dasar-dasar-HTML/01-Pengantar-HTML.md",
-    "1-Dasar-dasar-HTML/04-Elemen-HTML.md",
     "1-Dasar-dasar-HTML/02-Editor-HTML.md",
     "1-Dasar-dasar-HTML/03-Komentar-HTML.md",
     "1-Dasar-dasar-HTML/1-img/04-Elemen-HTML.png",
@@ -224,7 +224,6 @@
     "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-4.png",
     "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-3.png",
     "1-Dasar-dasar-HTML/1-img/01-Pengantar-HTML-2.png",
-    "1-Dasar-dasar-HTML/1-img/Pasted image 20250204140702.png",
     "README.md",
     "1-Dasar-dasar-HTML/1-img",
     "7-Referensi-HTML",
